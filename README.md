@@ -116,7 +116,7 @@ Based on the dashboard:
 ## Files
 
 - `Dashboard/` - Dashboard file
-- `[pizza_sales.csv](https://github.com/vishwanath464/pizza-sales-analysis-dashboard/blob/main/pizza_sales.csv)` - Dataset used for analysis
+- `pizza_sales.csv/` - Dataset used for analysis
 - `Images/` - Dashboard screenshots
 - `Documentation/` - Additional project documentation
 
