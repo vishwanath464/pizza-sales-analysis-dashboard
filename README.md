@@ -8,7 +8,7 @@ The dashboard provides a comprehensive view of business performance through key 
 
 ## Dashboard Preview
 
-![Pizza Sales Dashboard](Images/pizza-sales-dashboard.png)
+![Pizza Sales Dashboard](image)
 
 ## Key Performance Indicators
 
